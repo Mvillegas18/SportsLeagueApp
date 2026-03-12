@@ -50,7 +50,6 @@ public class TeamService : ITeamService
 
 
         if (team == null)
-
             _logger.LogWarning("Team with ID {TeamId} not found", id);
 
 

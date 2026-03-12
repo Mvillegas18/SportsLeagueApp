@@ -103,9 +103,9 @@ public class TeamController : ControllerBase
 
             return CreatedAtAction(nameof(GetById),
 
-new { id = responseDto.Id },
+                new { id = responseDto.Id },
 
-responseDto);
+                responseDto);
 
         }
 
