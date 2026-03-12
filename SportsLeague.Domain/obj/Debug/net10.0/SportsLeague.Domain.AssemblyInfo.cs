@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SportsLeague.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c595e29672b23f93a98c96f71e8e4377207ca5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a465ea824db4a518e1e20b627af0359b8dd9ec0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SportsLeague.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SportsLeague.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
