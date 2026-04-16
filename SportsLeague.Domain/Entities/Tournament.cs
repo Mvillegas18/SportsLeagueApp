@@ -23,4 +23,7 @@ public class Tournament : AuditBase
 
     public ICollection<TournamentTeam> TournamentTeams { get; set; } = new List<TournamentTeam>();
 
+    // Agregar dentro de la clase Tournament, después de TournamentTeams:
+    public ICollection<Match> Matches { get; set; } = new List<Match>();
+
 }
